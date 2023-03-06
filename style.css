@@ -1,7 +1,13 @@
+
 *{
     background-color: red;
 }
 
 body{
     color: blue;
+}
+
+p {
+    color: green;
+
 }
